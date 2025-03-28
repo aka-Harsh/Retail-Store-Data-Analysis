@@ -1,3 +1,2 @@
-# Test
+# Retail Store Data Analysis
 
-This is a test repository, it's only used for testing new github features.
