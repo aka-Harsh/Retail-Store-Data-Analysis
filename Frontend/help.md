@@ -1,7 +1,7 @@
 # Frontend Application Setup Guide
 
 > 📌 **Note**: Before proceeding, make sure your **backend is completely up and running**.  
-> Refer to [`Backend/help.md`](Backend/help.md) for backend setup instructions.
+> Refer to [`Backend/help.md`](https://github.com/aka-Harsh/Retail-Store-Data-Analysis/blob/main/Backend/help.md) for backend setup instructions.
 
 ## 🧰 Requirements
 
