@@ -26,8 +26,9 @@ This project efficiently bridges the gap between retailers and customers by offe
 ## Project Outlook
 
 
-![Image](https://github.com/user-attachments/assets/dab121ee-49f3-4bb5-8a46-4518dc660996)
-![Image](https://github.com/user-attachments/assets/cc5f895e-523a-49f4-9331-0e62526ee514)
+<img src="https://github.com/user-attachments/assets/dab121ee-49f3-4bb5-8a46-4518dc660996" width="504" height="600"/>
+<img src="https://github.com/user-attachments/assets/cc5f895e-523a-49f4-9331-0e62526ee514" width="503" height="600"/>
+
 ![Image](https://github.com/user-attachments/assets/844e4841-a8af-4bf5-b287-5cf9f87d0284)
 ![Image](https://github.com/user-attachments/assets/15bd2697-dfde-47fd-8be6-259c958fb9a9)
 ![Image](https://github.com/user-attachments/assets/d51e8375-094c-4601-9d9f-f0e2eb74bdb3)
