@@ -24,3 +24,17 @@ This project efficiently bridges the gap between retailers and customers by offe
 ## Deployment
 
 ## Project Outlook
+
+
+![Image](https://github.com/user-attachments/assets/dab121ee-49f3-4bb5-8a46-4518dc660996)
+![Image](https://github.com/user-attachments/assets/cc5f895e-523a-49f4-9331-0e62526ee514)
+![Image](https://github.com/user-attachments/assets/844e4841-a8af-4bf5-b287-5cf9f87d0284)
+![Image](https://github.com/user-attachments/assets/15bd2697-dfde-47fd-8be6-259c958fb9a9)
+![Image](https://github.com/user-attachments/assets/d51e8375-094c-4601-9d9f-f0e2eb74bdb3)
+![Image](https://github.com/user-attachments/assets/9bb3eea5-f420-4ccb-a3d6-035957217e83)
+![Image](https://github.com/user-attachments/assets/e27fd04e-13e6-484e-a1eb-adf1c99b8d19)
+![Image](https://github.com/user-attachments/assets/01142547-e932-47eb-a0fb-93ea11da0616)
+![Image](https://github.com/user-attachments/assets/aa12de85-dc27-41e7-ae95-f324d5d89a2a)
+![Image](https://github.com/user-attachments/assets/87b8da6d-b089-4e73-baad-9047a38470d5)
+![Image](https://github.com/user-attachments/assets/0b41085d-2ce5-4cc6-9db6-237483659281)
+![Image](https://github.com/user-attachments/assets/a56b76f4-a871-4fdf-ac6d-678a1c3e4a21)
