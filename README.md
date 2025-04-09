@@ -20,8 +20,23 @@ This project efficiently bridges the gap between retailers and customers by offe
 <img width="12" />
 
 ## Prerequisites
+Install [Java](https://www.java.com/en/download/manual.jsp) version 17 or higher in your system. <br>
+
+**(Optional but preferred)** Install [POSTMAN](https://www.postman.com/downloads/) to check endpoints.<br>
+
+**(Optional)** Install [Tailwind](https://tailwindcss.com/docs/installation/using-vite) in your system.
 
 ## Deployment
+
+1. To run this project first clone this repository using:
+```
+https://github.com/aka-Harsh/Retail-Store-Data-Analysis.git
+```
+
+2. Refer to **help.md** file in backend folder to set up your backend.
+
+
+3. Refer to **help.md** file in backend folder to set up your frontend.
 
 ## Project Outlook
 
